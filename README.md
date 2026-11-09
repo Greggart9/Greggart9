@@ -4,7 +4,7 @@
 
 [![Status](https://img.shields.io/badge/Status-🟢_Open_to_work-10b981?style=flat-square)](https://oluwadamilare.xyz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-oluwadamilare.xyz-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://oluwadamilare.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwadamilaree/)
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-@Oluwad__amilare-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Oluwad_amilare)
 [![Email](https://img.shields.io/badge/Email-oluwadamilare.greggart9%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oluwadamilare.greggart9@gmail.com)
 
@@ -14,7 +14,7 @@
 
 Frontend Engineer with 3+ years of experience shipping production web interfaces and scalable applications in **React**, **Next.js**, and **TypeScript**. Transitioning into full-stack engineering with proficiency in **Node.js**, **Express**, **PostgreSQL (Prisma)**, and **MongoDB**, backed by end-to-end HTTP request lifecycle management, relational database modeling, and decoupled client-server architectures.
 
-Experienced in translating complex design systems into high-performance web applications, engineering high-precision micro-interactions with **GSAP** and **Framer Motion**, integrating LLM APIs (**Google Gemini**), and maintaining production web infrastructure.
+Experienced in translating complex design systems into high-performance web applications, engineering high-precision micro-interactions with **GSAP** and **Framer Motion**, integrating cloud storage (**AWS S3**), and maintaining production web infrastructure.
 
 - 🎓 **BSc in Computer Science** — Federal University of Agriculture Abeokuta
 - 🌐 **14+ Production Websites** architected and maintained across government and tech sectors
@@ -30,7 +30,7 @@ Frontend            React.js, Next.js (App Router), Tailwind CSS, TanStack Query
 Motion & UX         GSAP (ScrollTrigger), Framer Motion, Lenis Smooth Scroll
 Backend & Systems   Node.js, Express.js, REST APIs, MVC Architecture, JWT Auth
 Databases & ORM     PostgreSQL (Neon), Prisma ORM, MongoDB Atlas, Mongoose, Supabase
-Cloud & Tooling     Vercel, Cloudinary, Git/GitHub, Docker, Stripe, Google OAuth
+Cloud & Tooling     AWS S3, Vercel, Cloudinary, Git/GitHub, Docker, Stripe, Google OAuth
 Practices           Code Reviews, Git Flow, Web Performance Auditing, Component Systems
 ```
 
@@ -39,29 +39,32 @@ Practices           Code Reviews, Git Flow, Web Performance Auditing, Component 
 ### Featured Projects
 
 #### [Phantom — Luxury E-Commerce Platform](https://github.com/Greggart9/phantom)
-*Full-stack e-commerce system built with decoupled client-server architecture.*
+*Full-stack e-commerce platform built with decoupled client-server architecture.*
 - **Frontend**: React (Vite), TypeScript, Tailwind CSS, high-end responsive product catalog.
 - **Backend & DB**: Express.js REST API connected to PostgreSQL via **Prisma ORM**.
 - **Features**: Real-time sync for cart & wishlists, admin inventory dashboard, **Google OAuth** authentication with HTTP-only cookies, and production-ready **Stripe** payment gateway checkout pipeline.
+
+#### [EduCollab — Educational Collaboration Platform](https://github.com/Greggart9/lastest-Final-Project)
+*Full-stack educational collaboration monorepo designed for interactive learning and academic resource sharing.*
+- **Frontend**: Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS, **Framer Motion**, Recharts for analytics, and Zod validation.
+- **Backend & Storage**: Express.js REST API, **Supabase**, and **AWS S3** (`@aws-sdk/client-s3`) for scalable document and media distribution.
+- **Security & Features**: JWT authentication, bcryptjs encryption, Multer upload pipeline, and automated email dispatch with Nodemailer.
 
 #### [Aldena — High-Performance Creative Agency](https://github.com/Greggart9/Aldena)
 *Editorial digital showcase combining rich visual design with fluid, hardware-accelerated animations.*
 - **Architecture**: Next.js App Router, TypeScript, Tailwind CSS.
 - **Motion Engineering**: Interactive pinned card stacks and dynamic reveals powered by **GSAP ScrollTrigger**, custom marquee tickers, and **Lenis** smooth scrolling without compromising Lighthouse performance scores.
 
-#### [MyGresume — AI Resume & Career Suite](https://github.com/Greggart9/MyGresume)
-*AI-driven career assistant and resume suite built on modern React 19 paradigms.*
-- **Stack**: Next.js 16, React 19, TypeScript, Radix UI, Tailwind CSS.
-- **AI Integration**: Powered by **Google Gemini API** for automated cover letter crafting, dynamic resume analysis, and real-time prompt generation.
-
-#### [CineScope — Movie Discovery & Explorer](https://github.com/Greggart9/frontend-assessment-oluwadamilareogundare)
-*Media discovery engine built for fast data exploration and responsive media consumption.*
-- **Stack**: Next.js 16, TypeScript, TanStack Query, Tailwind CSS, TMDB API.
-- **Features**: Cached asynchronous data fetching, infinite scrolling, real-time search filtering, and mobile-first responsive layout.
+#### [Zavian — Visual Narrative & Photography Showcase](https://github.com/Greggart9/zavian)
+*Editorial portfolio built for high-impact visual storytelling and creative presentation.*
+- **Live Demo**: [zavian.oluwadamilare.xyz](https://zavian.oluwadamilare.xyz)
+- **Architecture**: Next.js, TypeScript, Tailwind CSS, and **GSAP** micro-interactions.
+- **Focus**: High frame-rate transitions, mobile-first responsive layout shifts, and optimized asset delivery for media-heavy experiences.
 
 #### [Subscription Tracker API](https://github.com/Greggart9/subscription-tracker)
 *Scalable backend microservice for tracking recurring subscriptions, billing cycles, and automated notifications.*
 - **Stack**: Node.js, Express.js, MongoDB (Mongoose), JWT Authentication, RESTful routing.
+- **Features**: Modular MVC architecture, secure authorization middleware, subscription lifecycle management, and renewal tracking logic.
 
 ---
 
@@ -97,6 +100,6 @@ Practices           Code Reviews, Git Flow, Web Performance Auditing, Component 
 ### Get In Touch
 
 - **Portfolio**: [oluwadamilare.xyz](https://oluwadamilare.xyz)
+- **LinkedIn**: [linkedin.com/in/oluwadamilaree](https://www.linkedin.com/in/oluwadamilaree/)
 - **Email**: [oluwadamilare.greggart9@gmail.com](mailto:oluwadamilare.greggart9@gmail.com)
-- **LinkedIn**: [Oluwadamilare Ogundare](https://linkedin.com)
 - **X / Twitter**: [@Oluwad_amilare](https://x.com/Oluwad_amilare)
